@@ -1,13 +1,10 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Rajeshwar%20Shukla&fontColor=000000&fontSize=40&fontAlignY=45&height=80" 
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Rajeshwar%20Shukla&fontColor=000000&fontSize=40&fontAlignY=40&height=50" 
     alt="Rajeshwar Shukla"
   />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=28&pause=1200&color=00000&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Power+BI+Developer;Microsoft+Fabric+%26+Azure+Data+Professional" 
+    <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=28&pause=1200&color=00000&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Power+BI+Developer;Microsoft+Fabric+%26+Azure+Data+Professional" 
     alt="Typing animation" 
   />
 </p>
