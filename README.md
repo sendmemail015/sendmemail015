@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rajeshwar Shukla</h1>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Hi%20👋,%20I'm%20Rajeshwar%20Shukla&fontColor=000000&fontSize=40&fontAlignY=45&height=80" 
+    alt="Rajeshwar Shukla"
+  />
+</p>
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=28&pause=100&color=00000&center=true&vCenter=true&width=900&lines=Data+Analyst | Power+BI+Developer ; Microsoft+Fabric+%26+Azure+Data+Professional" 
