@@ -71,30 +71,15 @@
 
 </p>
 
-
 ---
 
-## 📂 Featured Projects
+## 🚀 Open Source Projects
 
-### 📌 Financial KPI Tracker Dashboard
-**Client:** Health Care Company  
-**Tech Stack:** Power BI, SQL, Microsoft Fabric, SharePoint, On-Prem Gateway  
-**Highlights:**
-- End-to-end BI architecture using **Fabric Lakehouse**
-- Advanced **DAX measures & time-intelligence KPIs**
-- Implemented **RLS, scheduled refresh & governance**
-- Interactive UX with **bookmarks, drill-through & tooltips**
-
----
-
-### 📌 HR Analytics – Loss of Revenue Tracker
-**Client:** In-House  
-**Tech Stack:** Power BI, SQL, Azure Data Factory, Fabric  
-**Highlights:**
-- Revenue loss & attrition analytics
-- Optimized data model using **Power Pivot**
-- Automated ETL pipelines using **ADF**
-- Business-friendly dashboards for leadership
+| 📦 Project | ⭐ Stars | 🍴 Forks | 🐞 Issues | 🔀 PRs | Tech Stack | Status |
+|----------|---------|---------|----------|-------|-----------|--------|
+| **[React Pull-To-Refresh](https://github.com/USERNAME/REPO1)**<br/><sub>Smooth pull-to-refresh for React apps</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![](https://img.shields.io/github/stars/USERNAME/REPO1) |
+| **[React + TypeScript Chrome Extension Starter](https://github.com/USERNAME/REPO2)**<br/><sub>Production-ready Chrome extension boilerplate</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/USERNAME/REPO2) |
+| **[Node.js Express GraphQL Starter](https://github.com/USERNAME/REPO3)**<br/><sub>Scalable API with Express & GraphQL</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) | ![](https://img.shields.io/github/stars/USERNAME/REPO3) |
 
 ---
 
@@ -119,22 +104,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t7d928y4tq253yf07gcc05fi4&cover_image=true&theme=compact&show_offline=false&background_color=000000">
-</p>
-
-## 🚀 Open Source Projects
-
-| 📦 Project | ⭐ Stars | 🍴 Forks | 🐞 Issues | 🔀 PRs | Tech Stack | Status |
-|----------|---------|---------|----------|-------|-----------|--------|
-| **[React Pull-To-Refresh](https://github.com/USERNAME/REPO1)**<br/><sub>Smooth pull-to-refresh for React apps</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![](https://img.shields.io/github/stars/USERNAME/REPO1) |
-| **[React + TypeScript Chrome Extension Starter](https://github.com/USERNAME/REPO2)**<br/><sub>Production-ready Chrome extension boilerplate</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/USERNAME/REPO2) |
-| **[Node.js Express GraphQL Starter](https://github.com/USERNAME/REPO3)**<br/><sub>Scalable API with Express & GraphQL</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) | ![](https://img.shields.io/github/stars/USERNAME/REPO3) |
-
----
 
 ---
 
