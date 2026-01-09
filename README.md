@@ -7,10 +7,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=28&pause=100&color=00000&center=true&vCenter=true&width=900&lines=Data+Analyst | Power+BI+Developer ; Microsoft+Fabric+%26+Azure+Data+Professional" 
+    src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=28&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Power+BI+Developer;Microsoft+Fabric+%26+Azure+Data+Professional" 
     alt="Typing animation" 
   />
 </p>
+
 
 
 <p align="center">
