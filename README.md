@@ -76,11 +76,46 @@
 
 ## 🚀 Open Source Projects
 
-| 📦 Project | ⭐ Stars | 🍴 Forks | 🐞 Issues | 🔀 PRs | Tech Stack | Status |
-|----------|---------|---------|----------|-------|-----------|--------|
-| **[Denis Project](https://github.com/USERNAME/REPO1)**<br/><sub>End-to-end BI Solution</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO1?style=flat) | ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![](https://img.shields.io/github/stars/USERNAME/REPO1) |
-| **[Box Office Report](https://github.com/USERNAME/REPO2)**<br/><sub>IMDB Data Analysis</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO2?style=flat) | ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/USERNAME/REPO2) |
-| **[Supper Store Dashboard](https://github.com/USERNAME/REPO3)**<br/><sub>Supper Store Sales Data Analysis</sub> | ![](https://img.shields.io/github/stars/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/forks/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/issues/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/github/issues-pr/USERNAME/REPO3?style=flat) | ![](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) | ![](https://img.shields.io/github/stars/USERNAME/REPO3) |
+# 🚀 Power BI Developer – Open Source & Portfolio Projects
+
+A curated collection of Power BI projects showcasing **data modeling, DAX, Power Query, and business-driven analytics**.
+
+---
+
+## 📊 Projects Overview
+
+| 🚧 **Project Name** | 📝 **Description** | 🎯 **Key Features / Learning Outcomes** | 🛠 **Tech / Tools** | 🔗 **Link** |
+|--------------------|-------------------|-----------------------------------------|-------------------|------------|
+| **Sales Performance Dashboard** | End-to-end sales analytics solution tracking revenue, growth, and trends. | ✔ KPI design<br>✔ YoY & MoM analysis<br>✔ Drill-through & tooltips | Power BI, DAX, Power Query | https://github.com/yourusername/sales-performance-dashboard |
+| **Financial Reporting Automation** | Automated financial reporting with standardized, reusable layouts. | ✔ Time intelligence<br>✔ Measure optimization<br>✔ Reusable DAX patterns | Power BI, DAX, Excel | https://github.com/yourusername/financial-reporting |
+| **Customer Churn Analysis** | Analytical dashboard to identify churn drivers and retention risks. | ✔ Customer segmentation<br>✔ Cohort analysis<br>✔ Churn KPIs | Power BI, DAX, SQL | https://github.com/yourusername/customer-churn-analysis |
+| **Marketing Campaign Analytics** | Multi-channel marketing performance tracking dashboard. | ✔ Funnel analysis<br>✔ Conversion metrics<br>✔ Dynamic slicers | Power BI, Power Query | https://github.com/yourusername/marketing-analytics |
+| **Supply Chain Monitoring** | Tracks inventory health, supplier performance, and lead times. | ✔ Star schema modeling<br>✔ Conditional formatting<br>✔ Performance tuning | Power BI, DAX | https://github.com/yourusername/supply-chain-dashboard |
+| **Power Query M Recipes** | Reusable Power Query scripts for common data transformation scenarios. | ✔ Advanced M functions<br>✔ Parameterized queries<br>✔ Query folding | Power Query (M) | https://github.com/yourusername/powerquery-m-recipes |
+| **DAX Pattern Library** | Implementation of common business problems using optimized DAX patterns. | ✔ Filter context mastery<br>✔ CALCULATE patterns<br>✔ Performance optimization | DAX | https://github.com/yourusername/dax-patterns |
+| **Power BI Deployment Pipeline** | CI/CD-style deployment strategy for Power BI artifacts. | ✔ Workspace strategy<br>✔ Version control<br>✔ Governance & security | Power BI Service, REST API | https://github.com/yourusername/powerbi-deployment |
+
+---
+
+## 🧠 Skills Demonstrated
+
+- 📊 Data Modeling & Star Schema Design  
+- 🧮 Advanced DAX & Time Intelligence  
+- ⚙️ Power Query (M) Transformations  
+- 🚀 Power BI Service & Deployment Pipelines  
+- 📈 Business-Focused Dashboard Design  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to **fork**, **raise issues**, or **submit pull requests**.
+
+---
+
+⭐ *If you find these projects useful, consider giving the repository a star!*
+
 
 ---
 
